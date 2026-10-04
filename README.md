@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Keerti
 
 <p align="center">
-  <img src="./hero.svg?v=1" alt="Animated hero" width="100%" />
+  <img src="./profile.jpeg" alt="Keerti Profile Photo" width="300" />
 </p>
 
 <p align="center">
@@ -14,16 +14,12 @@
 ## 🧑‍💻 About Me
 
 <p align="center">
-  <img src="./profile.jpeg" alt="Keerti Profile Photo" width="300" />
-</p>
-
-<p align="center">
   <b>B.Tech Computer Science Student • Web Developer • AI Enthusiast</b>
 </p>
 
 <p align="center">
   I'm a 3rd-year B.Tech Computer Science student passionate about
-  Java, Web Development, AI and building practical projects.
+  Java, Web Development, AI, and building practical projects.
   <br/>
   I enjoy learning new technologies, solving problems with code,
   and turning ideas into useful applications.
@@ -43,39 +39,91 @@
 To become a skilled software developer and build meaningful,
 real-world technology solutions.
 
-### 📫 Connect With Me
-
-- 🐙 **GitHub:** [@Keerti2005](https://github.com/Keerti2005)
-- 💼 **LinkedIn:** [Keerti Prajapati](https://www.linkedin.com/in/keerti-prajapati-31675b347/)
-- 📧 **Email:** [kirtiprajapati15974@gmail.com](mailto:kirtiprajapati15974@gmail.com)
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./stack.svg?v=1" alt="Animated technology stack" width="100%" />
+  <img src="./stack.svg?v=1" alt="Technology Stack" width="100%" />
 </p>
+
+### 💻 Programming & Development
+
+- ☕ Java
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🗄️ SQL
+- 🟢 Node.js
+
+### 📚 Currently Learning
+
+- Java with DSA
+- Web Development
+- AI & Generative AI
+- Backend Development
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| **AI Career Analyzer** | AI-based career and skill analysis platform | React • Node.js • AI |
+| **FixMyCity** | AI-powered smart civic complaint management system | HTML • CSS • JavaScript • AI |
+| **SkillBridge** | Platform connecting students, academia and industry for skill mapping, internships and placements | AI • Web • Backend |
+
+---
 
 ## 🪪 Developer ID & Dashboard
 
 <p align="center">
-  <img src="./id-dashboard.svg?v=1" alt="Developer dashboard" width="100%" />
+  <img src="./id-dashboard.svg?v=1" alt="Developer Dashboard" width="100%" />
 </p>
 
-## 🚀 Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| **AI Career Analyzer** | Career/skill analysis project | React • Node.js • AI |
-| **Project 02** | Add your project description | Add tech |
-| **Project 03** | Add your project description | Add tech |
-
-> Replace the project placeholders with your real GitHub repositories.
+---
 
 ## 🌃 3D Contribution City
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D GitHub contribution city" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1"
+       alt="3D GitHub Contribution City"
+       width="100%" />
 </p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keerti2005&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="Keerti's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerti2005&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Keerti2005">
+    GitHub
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/keerti-prajapati-31675b347/">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:kirtiprajapati15974@gmail.com">
+    Email
+  </a>
+</p>
+
+---
 
 <p align="center">
   <i>“Build. Learn. Improve. Repeat.”</i>
