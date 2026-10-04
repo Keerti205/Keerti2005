@@ -1,8 +1,6 @@
 👋 Hi, I'm Keerti
 
 <p align="center">
-  <img src="./hero.svg?v=3" alt="Keerti Profile" width="100%" />
-</p><p align="center">
   <img src="./profile.jpeg?v=3" alt="Keerti Profile Photo" width="220" />
 </p>---
 
@@ -20,7 +18,7 @@
 - 🤖 Learning AI
 - 🛠️ Building practical & hackathon projects
 
----
+
 
 🛠️ Tech Stack
 
