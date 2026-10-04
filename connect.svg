@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Connect with Keerti">
+<defs><linearGradient id="c" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect width="1200" height="360" rx="28" fill="#0d0e16"/><rect x="28" y="28" width="1144" height="304" rx="24" fill="none" stroke="url(#c)" stroke-opacity=".5"/>
+<g transform="translate(70 80)"><circle cx="100" cy="100" r="68" fill="#f1c7a8"/><path d="M38 98 Q100 18 162 98 Q135 55 100 64 Q65 55 38 98" fill="#171717"/><path d="M40 158 Q100 115 160 158 L185 230H15Z" fill="#a78bfa"/><path d="M165 125 Q205 100 230 120" fill="none" stroke="#22d3ee" stroke-width="9" stroke-linecap="round"/><path d="M225 120 l-15 -10 M225 120 l-4 16" stroke="#22d3ee" stroke-width="6" stroke-linecap="round"/>
+<text x="210" y="205" font-family="system-ui" font-size="26" font-weight="700" fill="#fff">Let's Connect</text></g>
+<g transform="translate(550 75)" font-family="system-ui"><a href="https://github.com/Keerti2005"><rect width="520" height="65" rx="16" fill="#111827" stroke="#334155"/><text x="25" y="28" font-size="13" fill="#64748b">GITHUB</text><text x="25" y="49" font-size="17" fill="#e2e8f0">github.com/Keerti2005</text></a>
+<rect y="80" width="520" height="65" rx="16" fill="#111827" stroke="#334155"/><text x="25" y="108" font-size="13" fill="#64748b">LINKEDIN</text><text x="25" y="129" font-size="17" fill="#94a3b8">Add your LinkedIn URL here</text>
+<rect y="160" width="520" height="65" rx="16" fill="#111827" stroke="#334155"/><text x="25" y="188" font-size="13" fill="#64748b">EMAIL</text><text x="25" y="209" font-size="17" fill="#94a3b8">Add your email here</text></g></svg>

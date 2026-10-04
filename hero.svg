@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-label="Animated GitHub profile hero for Keerti">
+<defs>
+  <linearGradient id="h-grad" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="h-glow"><stop stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#0d0e16" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="avatarClip"><circle cx="930" cy="245" r="132"/></clipPath>
+</defs>
+<rect width="1200" height="500" rx="28" fill="#0d0e16"/>
+<circle cx="930" cy="245" r="230" fill="url(#h-glow)" filter="url(#blur)"/>
+<g opacity=".12" fill="none" stroke="#fff"><path d="M0 410 Q300 180 600 360 T1200 120"/><path d="M0 470 Q300 240 600 420 T1200 180"/></g>
+<rect x="36" y="34" width="1128" height="432" rx="24" fill="none" stroke="url(#h-grad)" stroke-opacity=".55"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <rect x="72" y="70" width="190" height="34" rx="17" fill="#22d3ee" fill-opacity=".10" stroke="#22d3ee" stroke-opacity=".45"/>
+  <circle cx="94" cy="87" r="5" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="108" y="93" font-size="15" fill="#bff7ff">OPEN TO COLLABS</text>
+  <text x="72" y="165" font-size="22" fill="#cbd5e1">Hi there, I'm</text>
+  <text x="70" y="225" font-family="system-ui, sans-serif" font-weight="800" font-size="64" fill="url(#h-grad)">Keerti</text>
+  <text x="74" y="264" font-size="19" fill="#94a3b8">CSE Student • Web Developer • AI Enthusiast</text>
+  <text x="74" y="306" font-size="16" fill="#e2e8f0">Building practical web projects and learning AI, one project at a time.</text>
+  <text x="74" y="352" font-size="15" fill="#64748b">⌖ Lucknow, India</text>
+  <text x="250" y="352" font-size="15" fill="#64748b">◉ @Keerti2005</text>
+  <text x="74" y="405" font-size="14" fill="#64748b">Currently learning:</text>
+  <g font-size="13" fill="#e2e8f0">
+    <rect x="190" y="386" width="92" height="32" rx="16" fill="#111827" stroke="#22d3ee" stroke-opacity=".45"/><text x="209" y="407">React</text>
+    <rect x="292" y="386" width="105" height="32" rx="16" fill="#111827" stroke="#a78bfa" stroke-opacity=".45"/><text x="311" y="407">Node.js</text>
+    <rect x="407" y="386" width="70" height="32" rx="16" fill="#111827" stroke="#f472b6" stroke-opacity=".45"/><text x="425" y="407">AI</text>
+  </g>
+</g>
+<!-- abstract animated developer avatar -->
+<g clip-path="url(#avatarClip)">
+  <rect x="798" y="113" width="264" height="264" fill="#111827"/>
+  <circle cx="930" cy="245" r="132" fill="none" stroke="#22d3ee" stroke-opacity=".15" stroke-width="2"/>
+  <circle cx="930" cy="235" r="67" fill="#f1c7a8"/>
+  <path d="M860 230 Q865 150 930 150 Q995 150 1000 230 Q968 190 930 196 Q892 190 860 230" fill="#171717"/>
+  <path d="M874 246 Q930 270 986 246 L980 330 Q930 360 880 330Z" fill="#a78bfa"/>
+  <rect x="890" y="225" width="32" height="14" rx="5" fill="none" stroke="#111827" stroke-width="4"/>
+  <rect x="938" y="225" width="32" height="14" rx="5" fill="none" stroke="#111827" stroke-width="4"/>
+  <path d="M922 232h16" stroke="#111827" stroke-width="3"/>
+  <path d="M915 258 Q930 268 945 258" fill="none" stroke="#7c2d12" stroke-width="3" stroke-linecap="round"/>
+  <rect x="900" y="300" width="60" height="34" rx="8" fill="#0d0e16" stroke="#22d3ee"/>
+  <path d="M915 317 l10 -8 10 8 10 -8" fill="none" stroke="#22d3ee" stroke-width="3"/>
+</g>
+<circle cx="930" cy="245" r="143" fill="none" stroke="url(#h-grad)" stroke-width="2" stroke-dasharray="8 12">
+ <animateTransform attributeName="transform" type="rotate" from="0 930 245" to="360 930 245" dur="18s" repeatCount="indefinite"/>
+</circle>
+<g stroke="#22d3ee" stroke-width="3" opacity=".8"><path d="M814 125h28M814 125v28M1046 125h-28M1046 125v28M814 365h28M814 365v-28M1046 365h-28M1046 365v-28"/></g>
+<circle cx="1017" cy="146" r="5" fill="#ef4444"><animate attributeName="opacity" values="1;.15;1" dur="1s" repeatCount="indefinite"/></circle>
+<text x="1028" y="151" font-family="ui-monospace,monospace" font-size="12" fill="#94a3b8">REC</text>
+</svg>
