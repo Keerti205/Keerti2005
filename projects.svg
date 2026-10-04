@@ -1,0 +1,29 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="60" y1="40" x2="1140" y2="320" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#67E8F9"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#F472B6"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="#0D1220"/>
+<rect x="2" y="2" width="1196" height="356" rx="26" stroke="url(#g)" stroke-width="2"/>
+<text x="55" y="62" fill="#F8FAFC" font-family="Arial" font-size="28" font-weight="800">🚀 Featured Projects</text>
+<text x="55" y="92" fill="#94A3B8" font-family="Arial" font-size="16">Things I’ve built while learning and experimenting.</text>
+
+<rect x="45" y="120" width="350" height="190" rx="20" fill="#111827" stroke="#67E8F9"/>
+<text x="70" y="158" fill="#E0F2FE" font-family="Arial" font-size="21" font-weight="800">🏙️ FixMyCity</text>
+<text x="70" y="190" fill="#CBD5E1" font-family="Arial" font-size="15">AI-powered civic complaint</text>
+<text x="70" y="213" fill="#CBD5E1" font-family="Arial" font-size="15">management system.</text>
+<text x="70" y="260" fill="#67E8F9" font-family="Arial" font-size="14" font-weight="700">HTML • CSS • JavaScript • AI</text>
+
+<rect x="425" y="120" width="350" height="190" rx="20" fill="#111827" stroke="#A78BFA"/>
+<text x="450" y="158" fill="#EDE9FE" font-family="Arial" font-size="21" font-weight="800">🎓 SkillBridge</text>
+<text x="450" y="190" fill="#CBD5E1" font-family="Arial" font-size="15">AI platform connecting students,</text>
+<text x="450" y="213" fill="#CBD5E1" font-family="Arial" font-size="15">academia and industry.</text>
+<text x="450" y="260" fill="#A78BFA" font-family="Arial" font-size="14" font-weight="700">Web • AI • APIs</text>
+
+<rect x="805" y="120" width="350" height="190" rx="20" fill="#111827" stroke="#F472B6"/>
+<text x="830" y="158" fill="#FCE7F3" font-family="Arial" font-size="21" font-weight="800">🎵 Spotify Clone</text>
+<text x="830" y="190" fill="#CBD5E1" font-family="Arial" font-size="15">Modern music streaming</text>
+<text x="830" y="213" fill="#CBD5E1" font-family="Arial" font-size="15">interface inspired by Spotify.</text>
+<text x="830" y="260" fill="#F472B6" font-family="Arial" font-size="14" font-weight="700">HTML • CSS • JavaScript</text>
+</svg>
