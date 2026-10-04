@@ -45,15 +45,11 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3D GitHub contribution city" width="100%" />
 </p>
 
-## 🤝 Connect With Me
+### 💛 Connect With Me
 
-<p align="center">
-  <img src="./connect.svg?v=1" alt="Connect with Keerti" width="100%" />
-</p>
-
-- GitHub: [@Keerti2005](https://github.com/Keerti2005)
-- LinkedIn: **add your profile URL**
-- Email: **add your email**
+- **GitHub:** [@Keerti2005](https://github.com/Keerti2005)
+- **LinkedIn:** [Keerti Prajapati](https://www.linkedin.com/in/keerti-prajapati-31675b347/)
+- **Email:** [kirtiprajapati15974@gmail.com](mailto:kirtiprajapati15974@gmail.com)
 
 ---
 
