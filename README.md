@@ -1,10 +1,12 @@
-👋 Hi, I'm Keerti
+# 👋 Hi, I'm Keerti
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="62%" valign="middle">
 
-<h2>Hi there, I'm<br/><strong>Keerti</strong></h2>
+<h3>Hi there, I'm</h3>
+
+<h1>Keerti</h1>
 
 <p>
 <b>CSE Student • Web Developer • AI Enthusiast</b>
@@ -15,22 +17,30 @@ Building practical web projects and learning AI, one project at a time.
 </p>
 
 <p>
-📍 Lucknow, India &nbsp; • &nbsp; 💻 @Keerti2005
+📍 Lucknow, India &nbsp;&nbsp; • &nbsp;&nbsp; 💻 @Keerti2005
 </p>
 
 <p>
-Currently learning:
+<b>Currently learning</b>
 </p>
 
 <p>
-🔵 Java &nbsp;&nbsp; 🔵 DSA &nbsp;&nbsp; 🔵 Web Development &nbsp;&nbsp; 🔵 AI
+🔵 Java &nbsp;&nbsp;
+🔵 DSA &nbsp;&nbsp;
+🔵 Web Development &nbsp;&nbsp;
+🔵 AI
 </p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="./profile.jpeg" alt="Keerti Profile Photo" width="280" />
+<img
+  src="./profile.jpeg"
+  alt="Keerti Profile Photo"
+  width="260"
+  style="border-radius:50%;"
+/>
 
 </td>
 </tr>
@@ -38,120 +48,44 @@ Currently learning:
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-<p align="center">
-  <b>B.Tech Computer Science Student • Web Developer • AI Enthusiast</b>
-</p>
+I'm a **3rd-year B.Tech Computer Science student** passionate about Java, Web Development, AI and building practical projects.
 
-<p align="center">
-  I'm a 3rd-year B.Tech Computer Science student passionate about
-  Java, Web Development, AI, and building practical projects.
-  <br/>
-  I enjoy learning new technologies, solving problems with code,
-  and turning ideas into useful applications.
-</p>
+I enjoy learning new technologies, solving problems with code, and turning ideas into useful applications.
 
 ### 🚀 What I'm Currently Doing
 
-- 🎓 Pursuing B.Tech in Computer Science
+- 🎓 B.Tech Computer Science
 - 💻 Learning Java with DSA
 - 🌐 Exploring Web Development
-- 🤖 Learning AI and AI-powered applications
-- 🛠️ Building practical projects and hackathon projects
-- 📚 Preparing for software development opportunities
+- 🤖 Learning AI
+- 🛠️ Building practical & hackathon projects
 
 ### 🎯 My Goal
 
-To become a skilled software developer and build meaningful,
-real-world technology solutions.
+To become a skilled **Software Developer** and build meaningful real-world technology solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./stack.svg?v=1" alt="Technology Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,mysql,git,github,vscode" />
 </p>
-
-### 💻 Programming & Development
-
-- ☕ Java
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🗄️ SQL
-- 🟢 Node.js
-
-### 📚 Currently Learning
-
-- Java with DSA
-- Web Development
-- AI & Generative AI
-- Backend Development
 
 ---
 
 ## 🚀 Projects
 
-| Project | Description | Technologies |
+| Project | Description | Tech |
 |---|---|---|
-| **AI Career Analyzer** | AI-based career and skill analysis platform | React • Node.js • AI |
-| **FixMyCity** | AI-powered smart civic complaint management system | HTML • CSS • JavaScript • AI |
-| **SkillBridge** | Platform connecting students, academia and industry for skill mapping, internships and placements | AI • Web • Backend |
-
----
-
-## 🪪 Developer ID & Dashboard
-
-<p align="center">
-  <img src="./id-dashboard.svg?v=1" alt="Developer Dashboard" width="100%" />
-</p>
-
----
-
-## 🌃 3D Contribution City
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1"
-       alt="3D GitHub Contribution City"
-       width="100%" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerti2005&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="Keerti's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerti2005&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Keerti2005">
-    GitHub
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/keerti-prajapati-31675b347/">
-    LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:kirtiprajapati15974@gmail.com">
-    Email
-  </a>
-</p>
+| **SkillBridge** | AI-powered student-industry collaboration platform | Web • AI |
+| **FixMyCity** | AI-powered civic complaint management system | HTML • CSS • JavaScript |
+| **AI Career Analyzer** | Career and skill analysis application | React • Node.js • AI |
 
 ---
 
 <p align="center">
-  <i>“Build. Learn. Improve. Repeat.”</i>
+<i>“Build. Learn. Improve. Repeat.”</i>
 </p>
