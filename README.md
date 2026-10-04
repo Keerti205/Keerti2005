@@ -1,13 +1,40 @@
-# 👋 Hi, I'm Keerti
+👋 Hi, I'm Keerti
 
-<p align="center">
-  <img src="./profile.jpeg" alt="Keerti Profile Photo" width="300" />
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<h2>Hi there, I'm<br/><strong>Keerti</strong></h2>
+
+<p>
+<b>CSE Student • Web Developer • AI Enthusiast</b>
 </p>
 
-<p align="center">
-  <b>CSE Student • Web Developer • AI Enthusiast</b><br/>
-  Building practical projects, learning AI, and growing one commit at a time.
+<p>
+Building practical web projects and learning AI, one project at a time.
 </p>
+
+<p>
+📍 Lucknow, India &nbsp; • &nbsp; 💻 @Keerti2005
+</p>
+
+<p>
+Currently learning:
+</p>
+
+<p>
+🔵 Java &nbsp;&nbsp; 🔵 DSA &nbsp;&nbsp; 🔵 Web Development &nbsp;&nbsp; 🔵 AI
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./profile.jpeg" alt="Keerti Profile Photo" width="280" />
+
+</td>
+</tr>
+</table>
 
 ---
 
